@@ -1,0 +1,13 @@
+C:\Users\Teano\source\repos\HardOS\HardOS\bin\Debug\net6.0\HardOS.deps.json
+C:\Users\Teano\source\repos\HardOS\HardOS\bin\Debug\net6.0\HardOS.dll
+C:\Users\Teano\source\repos\HardOS\HardOS\bin\Debug\net6.0\HardOS.pdb
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\HardOS.csproj.AssemblyReference.cache
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\HardOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\HardOS.AssemblyInfoInputs.cache
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\HardOS.AssemblyInfo.cs
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\HardOS.csproj.CoreCompileInputs.cache
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\HardOS.dll
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\refint\HardOS.dll
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\HardOS.pdb
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\ref\HardOS.dll
+C:\Users\Teano\source\repos\HardOS\HardOS\obj\Debug\net6.0\HardOS.sourcelink.json
